@@ -8,5 +8,4 @@
     "bin": ["BetterDiscord-Windows.exe", "BetterDiscord Installer"],
     "notes": "Contains only BD installer",
     "homepage": "https://betterdiscord.app/"
-  }
 }
