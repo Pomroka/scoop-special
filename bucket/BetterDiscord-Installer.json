@@ -1,12 +1,8 @@
 {
-    "hash": "",
     "url": "https://github.com/BetterDiscord/Installer/releases/download/v1.2.0/BetterDiscord-Windows.exe",
-    "extract_dir": "",
     "license": "Unknown",
-    "depends": "",
     "version": "v1.2.0",
-    "bin": ["BetterDiscord-Windows.exe", "BetterDiscord Installer"],
+    "bin": "BetterDiscord-Windows.exe",
     "notes": "Contains only BD installer",
     "homepage": "https://betterdiscord.app/"
-  }
 }
